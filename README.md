@@ -27,6 +27,7 @@ Defining project scope clarifies objectives, deliverables and boundaries, guidin
 7. What are the benefits of developing a detailed project schedule, and how can Gantt charts assist in this process?
 
 A detailed project schedule sets clear timelines, prioritizes tasks and helps allocate resources effectively, ensuring project flow. Gantt charts visually map task sequences, durations and dependencies, allowing managers to track progress, identify bottlenecks and adjust timelines as needed.
+
 8. What are the core issues that your software aims to address? Why are these problems significant to your target audience?
 
 Core issues our software addresses include inefficiencies in task management, lack of real-time collaboration and data integration challenges. These problems hinder productivity and communication, which are vital to our target audience of businesses and teams striving for streamlined, effective workflows.
